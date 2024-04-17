@@ -9,7 +9,7 @@ The website doesn't require any styling.
 
 The assignment requires the main page to contain the usual html boilerplate, a heading and the links to the three recipes within an unordered list.
 
-Each recipe page is required to have the name of the dish as the main heading, with an image of the finished dish below as well as an appropriately sized description heading, followed by a paragraph or two describing the recipe, the ingredients in an unordered list, and lastly the steps needed for making the dish in an ordered list.
+Each recipe page is required to have the name of the dish as the main heading, with an image of the finished dish below as well as an appropriately sized description heading, followed by a paragraph or two describing the recipe, the ingredients heading and unordered list, and lastly the steps heading and ordered list.
 
 Featured recipes:
 	- flatbread: Tunnbröd
