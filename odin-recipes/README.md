@@ -12,9 +12,9 @@ The assignment requires the main page to contain the usual html boilerplate, a h
 Each recipe page is required to have the name of the dish as the main heading, with an image of the finished dish below as well as an appropriately sized description heading, followed by a paragraph or two describing the recipe, the ingredients heading and unordered list, and lastly the steps heading and ordered list.
 
 Featured recipes:
-	- flatbread: Tunnbröd
-	- porridge: Traveler's Gröt
-	- smoked fish: Rökt Fisk
+	* flatbread: Tunnbröd
+	* porridge: Traveler's Gröt
+	* smoked fish: Rökt Fisk
 
 This project should fullfil all requirements.
 
