@@ -13,7 +13,7 @@ Each recipe page is required to have the name of the dish as the main heading, w
 
 Featured recipes:
 	- flatbread: Tunnbröd
-	- porridge: Gröt and Cod
+	- porridge: Traveler's Gröt
 	- smoked fish: Rökt Fisk
 
 This project should fullfil all requirements.
