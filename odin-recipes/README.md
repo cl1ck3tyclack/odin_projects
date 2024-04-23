@@ -1,5 +1,6 @@
-The Odin Project Foundations Course
-Project: Recipes
+# The Odin Project Foundations Course #
+## Project: Recipes ##
+
 https://www.theodinproject.com/lessons/foundations-recipes
 
 This project is part of The Odin Project's Foundations Course.
@@ -16,7 +17,7 @@ Featured recipes:
 * porridge: Traveler's Gröt
 * smoked fish: Rökt Fisk
 
-This project should fullfil all requirements.
+This project should fulfill all requirements.
 
 With this project I demonstrate the use of skills acquired in previous lessons of The Odin Project Foundations Course:
 * the use of basic git, setting up a GitHub repository, atomic and conventional commit messages
