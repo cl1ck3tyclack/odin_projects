@@ -22,3 +22,6 @@ This project should fulfill all requirements.
 With this project I demonstrate the use of skills acquired in previous lessons of The Odin Project Foundations Course:
 * the use of basic git, setting up a GitHub repository, atomic and conventional commit messages
 * the use of basic HTML: html boilerplate, headings and paragraphs,lists, links and images.
+
+**Live Preview**
+Preview [Odin Feasts](https://cl1ck3tyclack.github.io/odin_projects/odin-recipes/) on GitHub Pages.
